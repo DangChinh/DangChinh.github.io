@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/dangchinh.github.io/static/css/main.0168050c.chunk.css",
+    "main.js": "/dangchinh.github.io/static/js/main.72491965.chunk.js",
+    "main.js.map": "/dangchinh.github.io/static/js/main.72491965.chunk.js.map",
+    "runtime-main.js": "/dangchinh.github.io/static/js/runtime-main.8ae3a451.js",
+    "runtime-main.js.map": "/dangchinh.github.io/static/js/runtime-main.8ae3a451.js.map",
+    "static/js/2.13b8bc67.chunk.js": "/dangchinh.github.io/static/js/2.13b8bc67.chunk.js",
+    "static/js/2.13b8bc67.chunk.js.map": "/dangchinh.github.io/static/js/2.13b8bc67.chunk.js.map",
+    "index.html": "/dangchinh.github.io/index.html",
+    "precache-manifest.c41d00652c81c4a0b3e8744918918070.js": "/dangchinh.github.io/precache-manifest.c41d00652c81c4a0b3e8744918918070.js",
+    "service-worker.js": "/dangchinh.github.io/service-worker.js",
+    "static/css/main.0168050c.chunk.css.map": "/dangchinh.github.io/static/css/main.0168050c.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ae3a451.js",
+    "static/js/2.13b8bc67.chunk.js",
+    "static/css/main.0168050c.chunk.css",
+    "static/js/main.72491965.chunk.js"
+  ]
+}
